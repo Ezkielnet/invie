@@ -19,6 +19,27 @@ margin-bottom: 20px;
 .guitarras {
   color:#1F313C;
 }
+.guitarra {
+  overflow: hidden;
+  border: 1px solid #1F313C;
+  padding: 10px;
+  margin: 10px;
+}
+.guitarra ol {
+padding:0;
+}
+.contenedor-guitarra-a {
+padding-left: 20px; 
+}
+.contenedor-guitarra-b {
+ margin-left: 370px;
+}
+.derecha {
+  float: right;
+}
+.izquierda {
+  float: left;
+}
 .guitarras h2 {
   font-size: 35px;
   font-family: 'Montserrat', sans-serif;
