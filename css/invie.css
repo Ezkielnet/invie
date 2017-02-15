@@ -18,8 +18,6 @@ margin-bottom: 20px;
 }
 .guitarras {
   color:#1F313C;
-  width: 800px;
-  margin: auto;
 }
 .guitarras h2 {
   font-size: 35px;
@@ -29,8 +27,6 @@ margin-bottom: 20px;
   background-image: url("../images/background.png");
   color: white;
   padding: 20px;
-  width: 800px;
-  margin: auto;
 }
 .portada button {
   margin-bottom: 70px;
@@ -45,6 +41,8 @@ margin-bottom: 20px;
   display: inline-block;
 }
 header {
+}
+.contenedor {
   width: 800px;
   margin: auto;
 }
