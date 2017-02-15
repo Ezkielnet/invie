@@ -1,5 +1,9 @@
+body {
+  font-family: 'Allerta', sans-serif;
+}
 .titulo {
   font-size: 70px;
+  font-family: 'Montserrat', sans-serif;
 }
 .title-a {
   font-size: 24px;
@@ -12,6 +16,7 @@ font-size: 50px;
 }
 .guitarras h2 {
   font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
 }
 .portada {
   background-image: url("../images/background.png");
