@@ -93,10 +93,20 @@ button {
 }
 
 .header {
-  position: relative;
+    position: relative;
 }
 
 .contenedor {
     width: 800px;
     margin: auto;
+}
+.footer {
+    background-color: #273b47;
+}
+.contacto img,  .contacto strong {
+  display: block;
+}
+.contacto a {
+  color:white;
+  text-decoration: none;
 }
